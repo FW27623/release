@@ -1,6 +1,5 @@
-name: 'Create Release'
+name: 'Release'
 description: 'Creates github releases'
-author: 'Nick Cipollo'
 inputs:
   allowUpdates:
     description: 'An optional flag which indicates if we should update a release if it already exists. Defaults to false.'
