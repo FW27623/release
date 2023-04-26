@@ -1,4 +1,4 @@
-name: 'publish-release'
+name: 'pub-release'
 description: 'Creates github releases'
 author: 'FW27623'
 inputs:
