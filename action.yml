@@ -1,5 +1,6 @@
-name: 'Release'
+name: 'publish-release'
 description: 'Creates github releases'
+author: 'FW27623'
 inputs:
   allowUpdates:
     description: 'An optional flag which indicates if we should update a release if it already exists. Defaults to false.'
